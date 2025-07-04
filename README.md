@@ -2,10 +2,6 @@
 
 This is a content-based movie recommender system built using NLP and machine learning. It suggests movies based on their **plot**, **genre**, **cast**, and **keywords**, using **TF-IDF vectorization** and **cosine similarity** to find similar titles. The frontend is powered by **Streamlit**, with movie posters and descriptions fetched from TMDb.
 
-## 🚀 Demo
-
-> 🖥️ Run locally:  
-> http://localhost:8501
 
 ## 🧠 How It Works
 
