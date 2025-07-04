@@ -1,0 +1,13 @@
+# requirements.txt
+pandas
+numpy
+scikit-learn
+beautifulsoup4
+requests
+streamlit
+matplotlib
+nltk
+tqdm
+lxml
+scikit-learn
+joblib
